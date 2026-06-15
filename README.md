@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../BLOXBAY-logo.png" alt="BLOXBAY" width="120" />
+<img src="https://github.com/bloxbay/bloxbay/blob/main/BLOXBAY-logo.png" alt="BLOXBAY" width="120" />
 
 # 🌴 BLOXBAY
 
