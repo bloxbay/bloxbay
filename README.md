@@ -169,10 +169,17 @@ npm run dev   # open http://localhost:5173 and ENTER THE BAY 🌴
 
 ---
 
+## Disclaimer
+
+> `$BLOXBAY` is a meme token with game utility. It is **not** an investment product, security, or financial instrument, and nothing here is financial advice.
+>
+> - Buying memecoins is extremely high risk. Assume any amount spent can go to zero.
+> - Island mints and cosmetics are entertainment purchases. Burns are a game mechanic, not a promise of price appreciation.
+> - The game is provided as-is; features and timelines may change.
+> - Do your own research. Never spend more than you can afford to lose.
+>
+> Have fun at the party. 🌴
+
 <div align="center">
-<sub>
-
-`$BLOXBAY` is a meme token with game utility. It is not an investment product, security, or financial instrument. Nothing here is financial advice. Buying memecoins is extremely high risk; assume any amount spent can go to zero. Island mints and cosmetics are entertainment purchases, and burns are a game mechanic, not a promise of price appreciation. Do your own research. Never spend more than you can afford to lose. Have fun at the party.
-
-</sub>
+<sub>BLOXBAY · the voxel beach club that never closes · bloxbay.fun</sub>
 </div>
